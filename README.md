@@ -1,1 +1,1 @@
-this repo contains my all code templates used in competitive programming
+this repo contains my java code templates that i use in competitive programming
