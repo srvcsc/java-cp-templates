@@ -52,6 +52,7 @@ class SegmentTree {
         }
         if (start == end && end == targetIndex) {
             tree[index] += change;
+            given[targetIndex] += change;
             return;
         }
         int mid = (start + end) / 2;
